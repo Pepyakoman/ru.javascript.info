@@ -168,7 +168,10 @@ alert( regexp.test(str) );
 ```
 (input)
 (inpu)(t)
+(inp)(ut)
 (inp)(u)(t)
+(in)(put)
+(in)(pu)(t)
 (in)(p)(ut)
 ...
 ```
